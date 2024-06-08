@@ -1,0 +1,53 @@
+.main-div {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 40px;
+    margin-top: 10px;
+}
+.thumbnail {
+    width: 100%;
+}
+
+.firstchannel-div {
+display: grid;
+grid-template-columns: 30px 1fr;
+column-gap: 40px;
+margin-top: 15px;
+margin-bottom: 0;
+
+}
+.firstchannel-pic{
+border-radius: 50%;
+width: 150%;
+}
+.firstchennel-description {
+width: 100%;
+font-size: 18px;
+font-weight: bold;
+}
+.authorandstats-div {
+margin-top: 0;
+margin-bottom: 50px;
+
+}
+.first-author {
+margin-left: 70px;
+font-size: 15px;
+margin-bottom: 5px;
+}
+.firstview-stats {
+margin-left: 70px;
+font-size: 15px;
+}
+.secondchennel-description{
+margin: 0;
+font-size: 20px;
+font-weight: bold;
+}
+.Markfirst-author{
+margin-left: 70px;
+font-size: 15px;
+margin-bottom: 7px;
+margin-top: -20;
+}
