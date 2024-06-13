@@ -4,6 +4,9 @@
     column-gap: 20px;
     row-gap: 40px;
     margin-top: 10px;
+    margin-bottom: 500px;
+    margin-left: 20px;
+    margin-right: 25px;
 }
 .thumbnail {
     width: 100%;
@@ -23,12 +26,12 @@ width: 150%;
 }
 .firstchennel-description {
 width: 100%;
-font-size: 18px;
+font-size: 13px;
 font-weight: bold;
 }
 .authorandstats-div {
 margin-top: 0;
-margin-bottom: 50px;
+margin-bottom: 10px;
 
 }
 .first-author {

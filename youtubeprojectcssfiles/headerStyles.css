@@ -6,7 +6,7 @@
     border-color:rgb(235, 234, 234);
     display:flex;
     flex-direction: row;
-    margin-bottom: 0;
+    margin-bottom:0;
     margin-top: 2px;
     align-content: center;
     justify-content: space-between;
@@ -81,8 +81,23 @@
 
 }
 .right-section {
-    background-color: lightblue;
-    width: 400px;
-    margin-top: 10px;
+    width: 220px;
+    justify-content: space-between;
+    display:flex;
+    align-items: center;
+    flex-shrink: 0;
+
     
+}
+.create-video-icon {
+    height: 65px;
+}
+.youtube-apps-icon {
+    height: 70px;
+}
+.notification-bell-icon {
+    height: 20px;
+}
+.channel-pictures-icon {
+    height: 30px;
 }
