@@ -15,10 +15,8 @@
 .firstchannel-div {
   display: grid;
   grid-template-columns: 30px 1fr;
-  column-gap: 40px;
-  margin-top: 15px;
-  margin-bottom: 0;
-  margin-left: 0;
+  column-gap: 13px;
+  margin-top: 5px;
 }
 .firstchannel-pic {
   border-radius: 50%;
@@ -26,33 +24,29 @@
 }
 .firstchennel-description {
   width: 100%;
-  font-size: 13px;
+  font-size: 12px;
   font-weight: bold;
-  margin-right: 0;
-  background-color: red;
 }
 .authorandstats-div {
-  margin-top: 0;
   margin-bottom: 10px;
 }
 .first-author {
-  margin-left: 50px;
-  font-size: 15px;
+  margin-left: 43px;
+  font-size: 12px;
   margin-bottom: 5px;
 }
 .firstview-stats {
-  margin-left: 50px;
-  font-size: 15px;
+  margin-left: 43px;
+  font-size: 12px;
 }
 .secondchennel-description {
   margin: 0;
-  font-size: 13px;
+  font-size: 12px;
   font-weight: bold;
-  background-color: red;
 }
 .Markfirst-author {
-  margin-left: 50px;
-  font-size: 15px;
+  margin-left: 43px;
+  font-size: 12px;
   margin-bottom: 7px;
   margin-top: -20;
 }
