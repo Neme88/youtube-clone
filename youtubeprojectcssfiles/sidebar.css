@@ -8,4 +8,27 @@
     border-width: 1px;
     border-color: black;
     border-style: solid;
+    display: grid;
+    grid-template-columns: 1fr;
+    column-gap: 20px;
+
+}
+.allSidebarIcon-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+
+.home-icon {
+    height: 25px;
+    margin-top: 20px;
+}
+.home-paragraph {
+    font-size: 11px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+.explore-icon {
+    height: 30px;
 }
