@@ -1,5 +1,4 @@
 .header-div {
-    margin-top: 25px;
     height: 55px;
     border-width: 0.50px;
     border-style: solid;
@@ -7,9 +6,14 @@
     display:flex;
     flex-direction: row;
     margin-bottom:0;
-    margin-top: 2px;
     align-content: center;
     justify-content: space-between;
+    position: fixed;
+    top:0;
+    left:0;
+    right: 0;
+    background-color: white;
+
 }
 .left-section {
     width: 300px;
@@ -50,7 +54,7 @@
     box-shadow: inset 1px 2px 3px rgba(0, 0, 0, 0.05);
 }
 .search-icon {
-    height: 18px;
+    height: 19px;
     background-color: rgb(245, 245, 245);
     margin-top: 4px;
 }
