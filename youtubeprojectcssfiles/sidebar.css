@@ -1,3 +1,8 @@
+p {
+    font-size: 10px;
+    margin-bottom: 40px;
+    margin-top: 10px;
+}
 .sidebar-div {
     position: fixed;
     top:57px;
@@ -24,11 +29,11 @@
     height: 25px;
     margin-top: 20px;
 }
-.home-paragraph {
-    font-size: 11px;
-    margin-top: 10px;
-    margin-bottom: 40px;
-}
+
 .explore-icon {
     height: 30px;
 }
+.subscription-icon {
+    height: 23px;
+}
+
