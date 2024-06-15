@@ -6,9 +6,9 @@ p {
 .sidebar-div {
     position: fixed;
     top:57px;
-    left: 1px;
+    left:0;
     bottom: 0;
-    width: 80px;
+    width: 70px;
     background-color: white;
     border-width: 1px;
     border-color: black;
@@ -36,4 +36,7 @@ p {
 .subscription-icon {
     height: 23px;
 }
+.youtubemusic-icon {
+    height: 25px;
 
+}
