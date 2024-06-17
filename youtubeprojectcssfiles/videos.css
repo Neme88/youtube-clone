@@ -2,17 +2,20 @@ p{
 /* general videos font*/
   font-family: Roboto, Arial, sans-serif;
 }
+div{
+  margin: 0;
+}
 .main-div {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  column-gap: 15px;
-  row-gap: 40px;
+  column-gap: 10px;
+  row-gap: 15px;
   padding-top: 80px;
-  padding-left: 95px;
-  padding-right: 25px;
-  padding-bottom: 0;
+  padding-left: 90px;
+  padding-right: 20px;
   background-color: rgb(250, 249, 249);
 }
+
 .thumbnail {
   width: 100%;
 }
@@ -30,16 +33,18 @@ p{
 .firstchennel-description {
   width: 100%;
   margin-top: 2px;
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 550;
 }
 .authorandstats-div {
   margin-bottom:0;
+  display: flex;
+  flex-direction: column;
 }
 .first-author {
   margin-left: 43px;
   font-size: 12px;
-  margin-top: -30px;
+  margin-top: -32px;
 }
 .firstview-stats {
   margin-left: 43px;
