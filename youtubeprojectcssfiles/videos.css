@@ -1,3 +1,8 @@
+p{
+  
+  font-family: Roboto, Arial, sans-serif;
+
+}
 .main-div {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -25,20 +30,22 @@
 }
 .firstchennel-description {
   width: 100%;
-  font-size: 12px;
-  font-weight: bold;
+  margin-top: 2px;
+  font-size: 14px;
+  font-weight: 550;
 }
 .authorandstats-div {
-  margin-bottom: 10px;
+  margin-bottom:0;
 }
 .first-author {
   margin-left: 43px;
   font-size: 12px;
-  margin-bottom: 5px;
+  margin-top: -30px;
 }
 .firstview-stats {
   margin-left: 43px;
   font-size: 12px;
+  margin-top: -35px;
 }
 .secondchennel-description {
   margin: 0;
@@ -48,6 +55,6 @@
 .Markfirst-author {
   margin-left: 43px;
   font-size: 12px;
-  margin-bottom: 7px;
-  margin-top: -20;
+  margin-top: -10px;
+
 }
