@@ -34,9 +34,12 @@ p {
     height: 30px;
 }
 .subscription-icon {
-    height: 23px;
+    height: 21px;
 }
 .youtubemusic-icon {
     height: 25px;
 
+}
+.youtube-originals-icon {
+    height: 20px;
 }
